@@ -1,3 +1,6 @@
+# SCRAPPED
+For now...
+
 # Project Name
 Discord4j_AudioPlayer
 
